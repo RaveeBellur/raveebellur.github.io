@@ -3,6 +3,12 @@
 
 
     Quick and a dirty code by Urban Sanden jan 2015
+    
+    Ravee: Changed the case statement as 
+    hold -Sprint(n+3)
+	assess -Sprint(n+2)
+	trial -Sprint(n+1)
+	adopt -Sprint(n)
 
 
 -------------------------------------------------------------------*/
@@ -86,7 +92,7 @@ Handlebars.registerHelper('gravatar', function(context, options) {
                     case 'trial':
                         radius = ($(".trial").width() - $(this).width())/2;
                     break;
-                    case 'adopt':
+                    case 'Sprint(n)':
                         radius = ($(".adopt").width() - $(this).width())/2;
                     break;
                 }

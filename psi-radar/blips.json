@@ -1,166 +1,221 @@
 { "blips":
     [
         {
-            "title": "Framer",
+            "title": "CANVIS - Data load",
             "area": "tools",
-            "status": "assess",
-            "link": "http://framerjs.com"
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-321"
         },
         {
-            "title": "BrowserSync",
+            "title": "AIA - Capital Accumulation check",
             "area": "tools",
-            "status": "adopt",
-            "link": "http://browsersync.io"
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-105"
         },
         {
-            "title": "Browserify",
+            "title": "WM - Checkable Deposits",
             "area": "tools",
-            "status": "trial",
-            "link": "http://browserify.org"
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-110"
         },
         {
-            "title": "Mapbox",
+            "title": "W 2012 - Commodity Pool",
+            "area": "tools",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-109"
+        },
+        {
+            "title": "CANVIS - Sprint(n+3)ings count verification",
+            "area": "tools",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-298"
+        },
+        {
+            "title": "AIA - Consumer Discretionary",
+            "area": "tools",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-178"
+        },
+        {
+            "title": "W 2012 - Exchange Privilege",
+            "area": "tools",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-172"
+        },
+        {
+            "title": "HKMPF - Average Cost Basis Method",
+            "area": "tools",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-327"
+        },
+        {
+            "title": "TAI CHI - Breakpoint Sale",
+            "area": "tools",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-324"
+        },
+        {
+            "title": "CANVIS - Equity Income",
+            "area": "tools",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-254"
+        },
+        {
+            "title": "AIA - Dual Purpose Fund",
+            "area": "tools",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-254"
+        },
+        {
+            "title": "GEM - Final Prospectus",
+            "area": "tools",
+            "status": "Sprint(n+3)",
+            "link": "https://jira/browse/PSI-254"
+        },   
+        {
+            "title": "CANVIS",
+            "area": "techniques",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-334"
+        },
+        {
+            "title": "AIA",
+            "area": "techniques",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-224"
+        },
+        {
+            "title": "WM",
+            "area": "techniques",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-240"
+        },
+        {
+            "title": "W 2012",
+            "area": "techniques",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-213"
+        },
+        {
+            "title": "HKMPF",
+            "area": "techniques",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-374"
+        },
+		{
+            "title": "CANVIS",
+            "area": "techniques",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-374"
+        },
+		{
+            "title": "AIA",
+            "area": "techniques",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-374"
+        },
+		{
+            "title": "W 2012",
+            "area": "techniques",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-374"
+        },
+		{
+            "title": "CANVIS",
+            "area": "techniques",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-318"
+        },
+		{
+            "title": "AIA",
+            "area": "techniques",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-299"
+        },
+		{
+            "title": "TAI CHI",
+            "area": "techniques",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-299"
+        },
+        {
+            "title": "Process improvement for Acurity regression suite",
             "area": "platforms",
-            "status": "trial",
-            "link": "http://mapbox.com"
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-196"
         },
         {
-            "title": "Invision",
-            "area": "tools",
-            "status": "adopt",
-            "link": "http://invisionapp.com"
-        },
-        {
-            "title": "Gulp",
-            "area": "tools",
-            "status": "adopt",
-            "link": "http://gulpjs.com"
-        },
-        {
-            "title": "Sketch Notebook",
-            "area": "tools",
-            "status": "adopt",
-            "link": "https://github.com/marcosvidal/Sketch-Notebook"
-        },
-        {
-            "title": "React",
-            "area": "frameworks",
-            "status": "trial",
-            "link": "http://facebook.github.io/react"
-        },
-        {
-            "title": "BASSCSS",
-            "area": "tools",
-            "status": "adopt",
-            "link": "http://www.basscss.com/"
-        },
-        {
-            "title": "Ember.js",
-            "area": "frameworks",
-            "status": "adopt",
-            "link": "http://emberjs.com"
-        },
-        {
-            "title": "Flexbox",
-            "area": "techniques",
-            "status": "adopt",
-            "link": "http://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-        },
-        {
-            "title": "Styleguides",
-            "area": "techniques",
-            "status": "adopt",
-            "link": "http://styleguides.io/"
-        },
-        {
-            "title": "SMIL",
-            "area": "techniques",
-            "status": "trial",
-            "link": "http://css-tricks.com/guide-svg-animations-smil/"
-        },
-        {
-            "title": "BEM",
-            "area": "techniques",
-            "status": "adopt",
-            "link": "http://bem.info"
-        },
-        {
-            "title": "CSS Architectural Principles",
-            "area": "techniques",
-            "status": "adopt",
-            "link": "http://cssguidelin.es/#architectural-principles"
-        },
-        {
-            "title": "Responsive Deliverables",
-            "area": "techniques",
-            "status": "adopt",
-            "link": "http://daverupert.com/2013/04/responsive-deliverables/"
-        },
-        {
-            "title": "Responsive images",
-            "area": "techniques",
-            "status": "adopt",
-            "link": "http://alistapart.com/article/responsive-images-in-practice"
-        },
-        {
-            "title": "Node",
+            "title": "Testing Standards and processes",
             "area": "platforms",
-            "status": "adopt",
-            "link": "http://nodejs.org"
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-205"
         },
-        {
-            "title": "Digital Ocean",
+		{
+            "title": "Testing Community",
             "area": "platforms",
-            "status": "adopt",
-            "link": "http://digitalocean.com"
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-262"
         },
-        {
-            "title": "SassDoc",
-            "area": "tools",
-            "status": "adopt",
-            "link": "http://sassdoc.com/"
+		{
+            "title": "Kanban wall - All releases",
+            "area": "platforms",
+            "status": "Sprint(n+3)",
+            "link": "https://jira/browse/PSI-265"
         },
-        {
-            "title": "MkDocs",
-            "area": "tools",
-            "status": "adopt",
-            "link": "http://mkdocs.org"
+		{
+            "title": "UAT - Member Online",
+            "area": "platforms",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-204"
         },
-        {
-            "title": "KSS",
-            "area": "tools",
-            "status": "adopt",
-            "link": "http://warpspire.com/kss/"
+		{
+            "title": "ALM Support Request",
+            "area": "platforms",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-132"
         },
-        {
-            "title": "Finch",
-            "area": "tools",
-            "status": "adopt",
-            "link": "https://meetfinch.com/"
+		{
+            "title": "ALM/UFT Upgrade",
+            "area": "platforms",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-23"
         },
+		{
+            "title": "Improvement - Regression Testing (Acurity and Capital)",
+            "area": "platforms",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-145"
+        },		
         {
-            "title": "Harp",
-            "area": "tools",
-            "status": "trial",
-            "link": "http://harpjs.com/"
-        },
-        {
-            "title": "Vagrant",
-            "area": "tools",
-            "status": "adopt",
-            "link": "http://vagrantup.com/"
-        },
-        {
-            "title": "AngularJS",
+            "title": "Digital Program Performance test Strategy",
             "area": "frameworks",
-            "status": "trial",
-            "link": "http://angularjs.com/"
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-319"
         },
-        {
-            "title": "Inline SVG",
+		{
+            "title": "TechConnect Performance testing",
+            "area": "frameworks",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-322"
+        },
+		{
+            "title": "MOL Performance testing",
+            "area": "frameworks",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-323"
+        },
+		{
+            "title": "Continuous Integration performance testing",
+            "area": "frameworks",
+            "status": "Sprint(n+3)",
+            "link": "https://jira/browse/PSI-330"
+        },
+		{
+            "title": "GEM",
             "area": "techniques",
-            "status": "trial",
-            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+            "status": "Sprint(n+3)",
+            "link": "https://jira/browse/PSI-100"
         }
+		
     ]
 }
