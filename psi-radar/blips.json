@@ -19,24 +19,6 @@
             "link": "https://jira/browse/PSI-110"
         },
         {
-            "title": "W 2012 - Commodity Pool",
-            "area": "tools",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-109"
-        },
-        {
-            "title": "CANVIS - Sprint(n+3)ings count verification",
-            "area": "tools",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-298"
-        },
-        {
-            "title": "AIA - Consumer Discretionary",
-            "area": "tools",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-178"
-        },
-        {
             "title": "W 2012 - Exchange Privilege",
             "area": "tools",
             "status": "Sprint(n+1)",
@@ -91,46 +73,16 @@
             "link": "https://jira/browse/PSI-240"
         },
         {
-            "title": "W 2012",
-            "area": "techniques",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-213"
-        },
-        {
             "title": "HKMPF",
             "area": "techniques",
             "status": "Sprint(n+1)",
             "link": "https://jira/browse/PSI-374"
         },
 		{
-            "title": "CANVIS",
-            "area": "techniques",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-374"
-        },
-		{
-            "title": "AIA",
-            "area": "techniques",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-374"
-        },
-		{
             "title": "W 2012",
             "area": "techniques",
             "status": "Sprint(n+1)",
             "link": "https://jira/browse/PSI-374"
-        },
-		{
-            "title": "CANVIS",
-            "area": "techniques",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-318"
-        },
-		{
-            "title": "AIA",
-            "area": "techniques",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-299"
         },
 		{
             "title": "TAI CHI",
@@ -139,76 +91,94 @@
             "link": "https://jira/browse/PSI-299"
         },
         {
-            "title": "Process improvement for Acurity regression suite",
+            "title": "CANVIS - Test Data load",
             "area": "platforms",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-321"
+        },
+        {
+            "title": "AIA - Test Capital Accumulation check",
+            "area": "platforms",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-105"
+        },
+        {
+            "title": "WM - Test Checkable Deposits",
+            "area": "platforms",
+            "status": "Sprint(n)",
+            "link": "https://jira/browse/PSI-110"
+        },
+        {
+            "title": "W 2012 - Test Exchange Privilege",
+            "area": "platforms",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-172"
+        },
+        {
+            "title": "HKMPF - Test Average Cost Basis",
+            "area": "platforms",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-327"
+        },
+        {
+            "title": "TAI CHI - Test Breakpoint Sale",
+            "area": "platforms",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-324"
+        },
+        {
+            "title": "CANVIS - Test Equity Income",
+            "area": "platforms",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-254"
+        },
+        {
+            "title": "AIA - Test Dual Purpose Fund",
+            "area": "platforms",
+            "status": "Sprint(n+2)",
+            "link": "https://jira/browse/PSI-254"
+        },
+        {
+            "title": "GEM - Test Final Prospectus",
+            "area": "platforms",
+            "status": "Sprint(n+3)",
+            "link": "https://jira/browse/PSI-254"
+        },  
+        {
+            "title": "ExTra Automation cycle 1",
+            "area": "frameworks",
             "status": "Sprint(n)",
             "link": "https://jira/browse/PSI-196"
         },
-        {
-            "title": "Testing Standards and processes",
-            "area": "platforms",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-205"
-        },
 		{
-            "title": "Testing Community",
-            "area": "platforms",
+            "title": "HKMPF - YML Regression",
+            "area": "frameworks",
             "status": "Sprint(n)",
             "link": "https://jira/browse/PSI-262"
         },
 		{
-            "title": "Kanban wall - All releases",
-            "area": "platforms",
-            "status": "Sprint(n+3)",
+            "title": "MSCI - YML Regression",
+            "area": "frameworks",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-204"
+        },
+        {
+            "title": "ExTra Automation cycle 2",
+            "area": "frameworks",
+            "status": "Sprint(n+1)",
+            "link": "https://jira/browse/PSI-205"
+        },
+		{
+            "title": "AP Portal Automation cycle 1",
+            "area": "frameworks",
+            "status": "Sprint(n+2)",
             "link": "https://jira/browse/PSI-265"
         },
 		{
-            "title": "UAT - Member Online",
-            "area": "platforms",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-204"
-        },
-		{
-            "title": "ALM Support Request",
-            "area": "platforms",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-132"
-        },
-		{
-            "title": "ALM/UFT Upgrade",
-            "area": "platforms",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-23"
-        },
-		{
-            "title": "Improvement - Regression Testing (Acurity and Capital)",
-            "area": "platforms",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-145"
-        },		
-        {
-            "title": "Digital Program Performance test Strategy",
-            "area": "frameworks",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-319"
-        },
-		{
-            "title": "TechConnect Performance testing",
-            "area": "frameworks",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-322"
-        },
-		{
-            "title": "MOL Performance testing",
-            "area": "frameworks",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-323"
-        },
-		{
-            "title": "Continuous Integration performance testing",
+            "title": "AP Portal Automation cycle 2",
             "area": "frameworks",
             "status": "Sprint(n+3)",
-            "link": "https://jira/browse/PSI-330"
+            "link": "https://jira/browse/PSI-23"
         },
 		{
             "title": "GEM",
