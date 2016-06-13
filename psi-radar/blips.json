@@ -1,191 +1,203 @@
 { "blips":
-    [
-        {
-            "title": "CANVIS - Data load",
-            "area": "tools",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-321"
-        },
-        {
-            "title": "AIA - Capital Accumulation check",
-            "area": "tools",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-105"
-        },
-        {
-            "title": "WM - Checkable Deposits",
-            "area": "tools",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-110"
-        },
-        {
-            "title": "W 2012 - Exchange Privilege",
-            "area": "tools",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-172"
-        },
-        {
-            "title": "HKMPF - Average Cost Basis Method",
-            "area": "tools",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-327"
-        },
-        {
-            "title": "TAI CHI - Breakpoint Sale",
-            "area": "tools",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-324"
-        },
-        {
-            "title": "CANVIS - Equity Income",
-            "area": "tools",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-254"
-        },
-        {
-            "title": "AIA - Dual Purpose Fund",
-            "area": "tools",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-254"
-        },
-        {
-            "title": "GEM - Final Prospectus",
-            "area": "tools",
-            "status": "Sprint(n+3)",
-            "link": "https://jira/browse/PSI-254"
-        },   
-        {
-            "title": "CANVIS",
-            "area": "techniques",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-334"
-        },
-        {
-            "title": "AIA",
-            "area": "techniques",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-224"
-        },
-        {
-            "title": "WM",
-            "area": "techniques",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-240"
-        },
-        {
-            "title": "HKMPF",
-            "area": "techniques",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-374"
-        },
-		{
-            "title": "W 2012",
-            "area": "techniques",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-374"
-        },
-		{
-            "title": "TAI CHI",
-            "area": "techniques",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-299"
-        },
-        {
-            "title": "CANVIS - Test Data load",
-            "area": "platforms",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-321"
-        },
-        {
-            "title": "AIA - Test Capital Accumulation check",
-            "area": "platforms",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-105"
-        },
-        {
-            "title": "WM - Test Checkable Deposits",
-            "area": "platforms",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-110"
-        },
-        {
-            "title": "W 2012 - Test Exchange Privilege",
-            "area": "platforms",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-172"
-        },
-        {
-            "title": "HKMPF - Test Average Cost Basis",
-            "area": "platforms",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-327"
-        },
-        {
-            "title": "TAI CHI - Test Breakpoint Sale",
-            "area": "platforms",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-324"
-        },
-        {
-            "title": "CANVIS - Test Equity Income",
-            "area": "platforms",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-254"
-        },
-        {
-            "title": "AIA - Test Dual Purpose Fund",
-            "area": "platforms",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-254"
-        },
-        {
-            "title": "GEM - Test Final Prospectus",
-            "area": "platforms",
-            "status": "Sprint(n+3)",
-            "link": "https://jira/browse/PSI-254"
-        },  
-        {
-            "title": "ExTra Automation cycle 1",
-            "area": "frameworks",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-196"
-        },
-		{
-            "title": "HKMPF - YML Regression",
-            "area": "frameworks",
-            "status": "Sprint(n)",
-            "link": "https://jira/browse/PSI-262"
-        },
-		{
-            "title": "MSCI - YML Regression",
-            "area": "frameworks",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-204"
-        },
-        {
-            "title": "ExTra Automation cycle 2",
-            "area": "frameworks",
-            "status": "Sprint(n+1)",
-            "link": "https://jira/browse/PSI-205"
-        },
-		{
-            "title": "AP Portal Automation cycle 1",
-            "area": "frameworks",
-            "status": "Sprint(n+2)",
-            "link": "https://jira/browse/PSI-265"
-        },
-		{
-            "title": "AP Portal Automation cycle 2",
-            "area": "frameworks",
-            "status": "Sprint(n+3)",
-            "link": "https://jira/browse/PSI-23"
-        },
-		{
-            "title": "GEM",
-            "area": "techniques",
-            "status": "Sprint(n+3)",
-            "link": "https://jira/browse/PSI-100"
-        }
-		
-    ]
+   [
+       {
+           "title": "EQUITY - Data load",
+           "area": "tools",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-321"
+       },
+       {
+           "title": "ELSS - Capital Accumulation check",
+           "area": "tools",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-105"
+       },
+       {
+           "title": "WM - Checkable Deposits",
+           "area": "tools",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-110"
+       },
+       {
+           "title": "AUM - Exchange Privilege",
+           "area": "tools",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-172"
+       },
+       {
+           "title": "AUS EX - Average Cost Basis Method",
+           "area": "tools",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-327"
+       },
+       {
+           "title": "BOND ETF - Breakpoint Sale",
+           "area": "tools",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-324"
+       },
+       {
+           "title": "EQUITY - Equity Income",
+           "area": "tools",
+           "status": "Sprint(n+2)",
+           "link": "https://jira/browse/PSI-254"
+       },
+       {
+           "title": "ELSS - Dual Purpose Fund",
+           "area": "tools",
+           "status": "Sprint(n+2)",
+           "link": "https://jira/browse/PSI-254"
+       },
+       {
+           "title": "ALPHA - Final Prospectus",
+           "area": "tools",
+           "status": "Sprint(n+3)",
+           "link": "https://jira/browse/PSI-254"
+       },   
+       {
+           "title": "EQUITY",
+           "area": "techniques",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-334"
+       },
+       {
+           "title": "ELSS",
+           "area": "techniques",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-224"
+       },
+       {
+           "title": "WM",
+           "area": "techniques",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-240"
+       },
+       {
+           "title": "AUS EX",
+           "area": "techniques",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-374"
+       },
+               {
+           "title": "AUM",
+           "area": "techniques",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-374"
+       },
+               {
+           "title": "BOND ETF",
+           "area": "techniques",
+           "status": "Sprint(n+2)",
+           "link": "https://jira/browse/PSI-299"
+       },
+       {
+           "title": "EQUITY - Test Data load",
+           "area": "platforms",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-321"
+       },
+       {
+           "title": "ELSS - Test Capital Accumulation check",
+           "area": "platforms",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-105"
+       },
+       {
+           "title": "WM - Test Checkable Deposits",
+           "area": "platforms",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-110"
+       },
+       {
+           "title": "AUM - Test Exchange Privilege",
+           "area": "platforms",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-172"
+       },
+       {
+           "title": "AUS EX - Test Average Cost Basis",
+           "area": "platforms",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-327"
+       },
+       {
+           "title": "BOND ETF - Test Breakpoint Sale",
+           "area": "platforms",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-324"
+       },
+       {
+           "title": "EQUITY - Test Equity Income",
+           "area": "platforms",
+           "status": "Sprint(n+2)",
+           "link": "https://jira/browse/PSI-254"
+       },
+       {
+           "title": "ELSS - Test Dual Purpose Fund",
+           "area": "platforms",
+           "status": "Sprint(n+2)",
+           "link": "https://jira/browse/PSI-254"
+       },
+       {
+           "title": "ALPHA - Test Final Prospectus",
+           "area": "platforms",
+           "status": "Sprint(n+3)",
+           "link": "https://jira/browse/PSI-254"
+       },  
+       {
+           "title": "MFSS - Estimation Valuation",
+           "area": "frameworks",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-196"
+       },
+       {
+           "title": "MFSS - Basket Dissemination",
+           "area": "frameworks",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-196"
+       },
+       {
+           "title": "MFSS - Bursting & Publishing",
+           "area": "frameworks",
+           "status": "Sprint(n)",
+           "link": "https://jira/browse/PSI-196"
+       },
+               {
+           "title": "AUS EX - YML Regression",
+           "area": "frameworks",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-262"
+       },
+               {
+           "title": "NCIS - UGG Regression",
+           "area": "frameworks",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-204"
+       },
+       {
+           "title": "MFSS - Portal check",
+           "area": "frameworks",
+           "status": "Sprint(n+1)",
+           "link": "https://jira/browse/PSI-205"
+       },
+               {
+           "title": "PORTAL - Automation cycle 1",
+           "area": "frameworks",
+           "status": "Sprint(n+2)",
+           "link": "https://jira/browse/PSI-265"
+       },
+               {
+           "title": "PORTAL - Automation cycle 2",
+           "area": "frameworks",
+           "status": "Sprint(n+3)",
+           "link": "https://jira/browse/PSI-23"
+       },
+               {
+           "title": "ALPHA",
+           "area": "techniques",
+           "status": "Sprint(n+3)",
+           "link": "https://jira/browse/PSI-100"
+       }
+               
+   ]
 }
